@@ -3,7 +3,7 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 self-contained: true
-author: Ryan, Celeste, Will, Carolyn
+author: Will, Carolyne, Ryan, Celeste, 
 ---
 
 ## Quarto
